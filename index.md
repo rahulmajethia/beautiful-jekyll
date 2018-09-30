@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rahul Majethia
-subtitle: 'Web Information Systems, TU Delft'
+subtitle: 'Shiv Nadar University, India'
 published: true
 ---
 
