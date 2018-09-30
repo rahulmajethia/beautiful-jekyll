@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   Projects: "projects"
   Publications : "publications"
-  CV : ""
+  CV : "https://github.com/rahulmajethia/rahulmajethia.github.io/blob/master/resources/pdf/updated-aug-18.pdf"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
