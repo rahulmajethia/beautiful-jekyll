@@ -4,7 +4,7 @@ title: Publications
 published: true
 ---
 
-I can also be found on [Google Scholar](http://scholar.google.com/citations?user=gMUKVkkAAAAJ&hl=en) and [DBLP](http://www.informatik.uni-trier.de/~ley/pers/ht/h/Hauff:Claudia.html)
+I can also be found on [Google Scholar](https://scholar.google.com/citations?user=WCNcdIcAAAAJ&hl=en) and [DBLP](https://dblp.org/pers/hd/m/Majethia:Rahul)
 
 <img src="../img/conference-paper.png" height="20px">
 Dan Davis, Claudia Hauff and Geert-Jan Houben. *Evaluating Crowdworkers as a Proxy for Online Learners in
