@@ -5,6 +5,9 @@ subtitle: 'Shiv Nadar University, India'
 published: true
 ---
 
+Hi! I am a Ph.D. Student working in Systems Research at [Shiv Nadar University](http://snu/edu.in), India.
+
+For my Ph.D. research, I am Responsible for (a) Leveraging micro-events for activity and deep context mining, particularly for human-human interactions and behavior, and (b) Developing models for robust Bluetooth Low Energy based ranging for indoor environments.
 
 ### News
 
