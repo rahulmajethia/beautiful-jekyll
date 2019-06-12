@@ -12,7 +12,7 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 <img src="../img/conference-paper.png" height="20px">  Rahul Majethia and Krishnan Rajkumar. 2018. Mining channel state information from bluetooth low energy RSSI for robust object-to-object ranging. In Proceedings of the 8th International Conference on the Internet of Things (IOT '18). ACM, New York, NY, USA, Article 23, 4 pages. DOI: https://doi.org/10.1145/3277593.3277624 
 
 
-<img src="../img/journal-paper.png" height="20px"> Akhil Mathur, Lakshmi Manasa Kalanadhabhatta, Rahul Majethia, and Fahim Kawsar. 2017. Moving Beyond Market Research: Demystifying Smartphone User Behavior in India. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 1, 3, Article 82 (September 2017), 27 pages. DOI: https://doi.org/10.1145/3130947 
+<img src="../img/journal-article.png" height="20px"> Akhil Mathur, Lakshmi Manasa Kalanadhabhatta, Rahul Majethia, and Fahim Kawsar. 2017. Moving Beyond Market Research: Demystifying Smartphone User Behavior in India. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 1, 3, Article 82 (September 2017), 27 pages. DOI: https://doi.org/10.1145/3130947 
 
 
 <img src="../img/conference-paper.png" height="20px"> Kunchay Sahiti, Lakshmi Manasa Kalanadhabhatta, Suman Sankar Bhunia, Akshit Singhal, and *Rahul Majethia*. 2017. Smartphone-based Qualitative Analyses of Social Activities During Family Time. In Proceedings of the First International Workshop on Human-centered Sensing, Networking, and Systems (HumanSys’17), New York, NY, USA, 49-54. 
