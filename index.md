@@ -9,7 +9,9 @@ Hi! I am a Ph.D. Student working in Systems Research at [Shiv Nadar University](
 
 For my Ph.D. research, I am Responsible for (a) Leveraging micro-events for activity and deep context mining, particularly for human-human interactions and behavior, and (b) Developing models for robust Bluetooth Low Energy based ranging for indoor environments.
 
-In the past, I have worked in collaboration wit [Dr. Fahim Kawsar](https://www.fahim-kawsar.net/) and [Akhil Mathur](https://akhilmathurs.github.io/), [Nokia-Bell Labs](https://www.bell-labs.com/) on Exploring application usage, notification interaction behavior, battery charging patterns and the impact of context on usage patterns of smartphone users, and Understanding how users interact with and choose between competing apps.
+In the past, I have worked in collaboration wit [Dr. Fahim Kawsar](https://www.fahim-kawsar.net/) and [Akhil Mathur](https://akhilmathurs.github.io/), [Nokia-Bell Labs](https://www.bell-labs.com/) on exploring application usage, notification interaction behavior, battery charging patterns and the impact of context on usage patterns of smartphone users. We also worked on understanding how users interact with and choose between competing apps.
+
+As an undergraduate research intern, I worked with [Prof. Archan Misra](https://sites.google.com/view/archan-misra/), [Prof. Rajesh Balan](https://www.smu.edu.sg/faculty/profile/9604/Rajesh-Krishna-BALAN), and [Tadashi Okoshi](www.okoshi.org) - at Livelabs, [Singapore Management University](https://sis.smu.edu.sg/) on a realtime smartphone-based queue detection system for public venues (e.g. food courts, airport check-in) using inertial sensor (e.g. accelerometer, gyroscope) data.
 
 ### News
 
