@@ -7,7 +7,7 @@ published: true
 I can also be found on [Google Scholar](https://scholar.google.com/citations?user=WCNcdIcAAAAJ&hl=en) and [DBLP](https://dblp.org/pers/hd/m/Majethia:Rahul)
 
 
-<img src="../img/conference-paper.png" height="20px"> Rahul Majethia. 2018. Deep Context Mining of Individuals and Groups Using Smartphone Sensor and Usage Data. In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers (UbiComp '18). ACM, New York, NY, USA, 1750-1753. DOI: https://doi.org/10.1145/3267305.3277808 
+<img src="../img/workshop-paper.png" height="20px"> Rahul Majethia. 2018. Deep Context Mining of Individuals and Groups Using Smartphone Sensor and Usage Data. In Proceedings of the 2018 ACM International Joint Conference and 2018 International Symposium on Pervasive and Ubiquitous Computing and Wearable Computers (UbiComp '18). ACM, New York, NY, USA, 1750-1753. DOI: https://doi.org/10.1145/3267305.3277808 
 
 <img src="../img/conference-paper.png" height="20px">  Rahul Majethia and Krishnan Rajkumar. 2018. Mining channel state information from bluetooth low energy RSSI for robust object-to-object ranging. In Proceedings of the 8th International Conference on the Internet of Things (IOT '18). ACM, New York, NY, USA, Article 23, 4 pages. DOI: https://doi.org/10.1145/3277593.3277624 
 
