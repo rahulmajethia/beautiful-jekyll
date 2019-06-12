@@ -9,6 +9,8 @@ Hi! I am a Ph.D. Student working in Systems Research at [Shiv Nadar University](
 
 For my Ph.D. research, I am Responsible for (a) Leveraging micro-events for activity and deep context mining, particularly for human-human interactions and behavior, and (b) Developing models for robust Bluetooth Low Energy based ranging for indoor environments.
 
+In the past, I have worked in collaboration wit [Dr. Fahim Kawsar](https://www.fahim-kawsar.net/) and [Akhil Mathur](https://akhilmathurs.github.io/), [Nokia-Bell Labs](https://www.bell-labs.com/) on Exploring application usage, notification interaction behavior, battery charging patterns and the impact of context on usage patterns of smartphone users, and Understanding how users interact with and choose between competing apps.
+
 ### News
 
 *10/18 My paper on device based interaction monitoring entitled "Mining Channel State Information from Bluetooth Low Energy RSSI for Robust Object-to-object Ranging" has been accepted at [ACM IoT '18](https://iot-conference.org/iot2018/)! 
