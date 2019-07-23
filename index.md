@@ -7,7 +7,7 @@ published: true
 
 Hi! I am a Ph.D. Student working in Systems Research at [Shiv Nadar University](http://snu/edu.in), India, under the advisement of Prof. [Krishnan Rajkumar](https://scholar.google.co.in/citations?user=Ic5_KFYAAAAJ&hl=en), Jawaharlal Nehru University.
 
-For my Ph.D. research, I am Responsible for (a) Leveraging micro-events for activity and deep context mining, particularly for human-human interactions and behavior, and (b) Developing models for robust Bluetooth Low Energy based ranging for indoor environments.
+For my doctoral thesis, I have worked on (a) Leveraging micro-events for activity and deep context mining, particularly for human-human interactions and behavior, and (b) Developing models for robust Bluetooth Low Energy based ranging for indoor environments.
 
 In the past, I have worked in collaboration with [Dr. Fahim Kawsar](https://www.fahim-kawsar.net/) and [Akhil Mathur](https://akhilmathurs.github.io/), [Nokia-Bell Labs](https://www.bell-labs.com/) on exploring application usage, notification interaction behavior, battery charging patterns and the impact of context on usage patterns of smartphone users. We also worked on understanding how users interact with and choose between competing apps.
 
