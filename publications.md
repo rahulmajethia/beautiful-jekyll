@@ -16,9 +16,9 @@ I can also be found on [Google Scholar](https://scholar.google.com/citations?use
 <img src="../img/journal-article.png" height="20px"> Akhil Mathur, Lakshmi Manasa Kalanadhabhatta, Rahul Majethia, and Fahim Kawsar. 2017. Moving Beyond Market Research: Demystifying Smartphone User Behavior in India. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 1, 3, Article 82 (September 2017), 27 pages. DOI: https://doi.org/10.1145/3130947 
 
 
-<img src="../img/conference-paper.png" height="20px"> Kunchay Sahiti, Lakshmi Manasa Kalanadhabhatta, Suman Sankar Bhunia, Akshit Singhal, and *Rahul Majethia*. 2017. Smartphone-based Qualitative Analyses of Social Activities During Family Time. In Proceedings of the First International Workshop on Human-centered Sensing, Networking, and Systems (HumanSys’17), New York, NY, USA, 49-54. 
+<img src="../img/workshop-paper.png" height="20px"> Kunchay Sahiti, Lakshmi Manasa Kalanadhabhatta, Suman Sankar Bhunia, Akshit Singhal, and *Rahul Majethia*. 2017. Smartphone-based Qualitative Analyses of Social Activities During Family Time. In Proceedings of the First International Workshop on Human-centered Sensing, Networking, and Systems (HumanSys’17), New York, NY, USA, 49-54. 
 
- <img src="../img/conference-paper.png" height="20px"> *Rahul Majethia*, Akshit Singhal, Lakshmi Manasa K, Kunchay Sahiti, Shubhangi Kishore, and Vijay Nandwani. 2016. AnnoTainted: Automating Physical Activity Ground Truth Collection Using Smartphones. In Proceedings of the 3rd International on Workshop on Physical Analytics (WPA ‘16). ACM, New York, NY, USA, 13-18.
+ <img src="../img/workshop-paper.png" height="20px"> *Rahul Majethia*, Akshit Singhal, Lakshmi Manasa K, Kunchay Sahiti, Shubhangi Kishore, and Vijay Nandwani. 2016. AnnoTainted: Automating Physical Activity Ground Truth Collection Using Smartphones. In Proceedings of the 3rd International on Workshop on Physical Analytics (WPA ‘16). ACM, New York, NY, USA, 13-18.
 
  <img src="../img/conference-paper.png" height="20px">  *Rahul Majethia*, Varun Mishra, et al. 2015. Contextual sensitivity of the ambient temperature sensor in smartphones. In the 7th International Conference on Communication Systems and Networks (COMSNETS). IEEE, pp. 1–8.
 
