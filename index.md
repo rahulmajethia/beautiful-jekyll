@@ -15,14 +15,14 @@ As an undergraduate research intern, I worked with [Prof. Archan Misra](https://
 
 ### News
 
-*08/19 Selected as a Student Volunteer @ Ubicomp/ISWC '19, London, United Kingdom!
+*08/19 Selected as a Student Volunteer @ UbiComp/ISWC '19, London, United Kingdom!
 
-*07/19 My paper on longitudinal study of in-person interactions titled "Cohort Analyses of In-Person Interactions in Temporally Evolving Student Social Groups" has been accepted at the LDC Workshop at [Ubicomp/ISWC 2019](http://ubicomp.org/ubicomp2019/), London.
+*07/19 My paper on longitudinal study of in-person interactions titled "Cohort Analyses of In-Person Interactions in Temporally Evolving Student Social Groups" has been accepted at the LDC Workshop at [UbiComp/ISWC 2019](http://ubicomp.org/ubicomp2019/), London.
 
 *10/18 My paper on device based interaction monitoring entitled "Mining Channel State Information from Bluetooth Low Energy RSSI for Robust Object-to-object Ranging" has been accepted at [ACM IoT '18](https://iot-conference.org/iot2018/)! 
 
-*09/18 I have been awarded the ACM Student Grant for presenting my work at [Ubicomp/ISWC 2018](http://ubicomp.org/ubicomp2018/), Singapore!
+*09/18 I have been awarded the ACM Student Grant for presenting my work at [UbiComp/ISWC 2018](http://ubicomp.org/ubicomp2018/), Singapore!
 
-*08/18 My Research on Deep Context Sensing of Groups using Smartphone Sensor Data has been accepted at the [Broadening Participation Workshop (BPW '18)](https://ubicomp2018broadeningparticipation.wordpress.com) at [Ubicomp/ISWC 2018](http://ubicomp.org/ubicomp2018/), Singapore!
+*08/18 My Research on Deep Context Sensing of Groups using Smartphone Sensor Data has been accepted at the [Broadening Participation Workshop (BPW '18)](https://ubicomp2018broadeningparticipation.wordpress.com) at [UbiComp/ISWC 2018](http://ubicomp.org/ubicomp2018/), Singapore!
  
 *08/17 Our paper on analyzing familial interactions got accepted at [HumanSys’17](http://sensys.acm.org/2017/workshops/humansys/), co-located with [SenSys’17](http://sensys.acm.org/2017/)!
